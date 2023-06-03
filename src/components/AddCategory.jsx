@@ -23,7 +23,7 @@ const AddCategory = ({ onNewCategory }) => {
 				type="text"
 				name=""
 				id=""
-				placeholder="Busca de gifts"
+				placeholder="Buscador de gifs"
 				value={inputValue}
 				onChange={onInputChange}
 			/>
